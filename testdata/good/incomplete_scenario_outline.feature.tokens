@@ -1,0 +1,13 @@
+(1:1)FeatureLine:Feature/Incomplete scenario outlines/
+(2:1)Empty://
+(3:3)ScenarioOutlineLine:Scenario Outline/no examples/
+(4:1)Empty://
+(5:3)ScenarioOutlineLine:Scenario Outline/no table/
+(6:1)Empty://
+(7:5)ExamplesLine:Examples//
+(8:1)Empty://
+(9:3)ScenarioOutlineLine:Scenario Outline/only table header/
+(10:1)Empty://
+(11:5)ExamplesLine:Examples//
+(12:5)TableRow://7:what
+EOF
